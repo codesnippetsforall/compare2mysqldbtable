@@ -17,6 +17,7 @@ Install MySQL 8.0.31 (or preferred as per your requirement)
 > employee and run below sql queries
 
 DROP TABLE IF EXISTS `employee`;
+
 CREATE TABLE IF NOT EXISTS `employee` (
   `employee_id` int NOT NULL AUTO_INCREMENT,
   `employee_name` varchar(50) NOT NULL,
