@@ -6,17 +6,21 @@ Python:
 Install packages for Python:
 
 > pip install pandas
+
 > pip install sqlalchemy
+
 > pip install mysql-connector-python
 
 Database:
 
 Install MySQL 8.0.31 (or preferred as per your requirement)
+
 > Create 2 Databases
 
 > payroll_dev, payroll_qa
 
 > Create 1 table in both the Databases
+
 > employee and run below sql queries
 
 DROP TABLE IF EXISTS `employee`;
