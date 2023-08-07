@@ -6,7 +6,7 @@ Python:
 Install packages for Python:
 
 > pip install pandas
-
+> pip install sqlalchemy
 > pip install mysql-connector-python
 
 Database:
